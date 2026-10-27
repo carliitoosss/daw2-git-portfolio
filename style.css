@@ -33,3 +33,6 @@ footer {
 a {
     color: #2563eb;
 }
+section + section {
+    margin-top: 25px;
+}
